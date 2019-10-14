@@ -1,5 +1,7 @@
 # Drone Gitlab
 
+[Drone 0.8 documentation](https://0-8-0.docs.drone.io)
+
 Facilitates your local development workflows with Drone CI pipelines using Gitlab client. There's one for [Github](https://github.com/kalinchernev/drone-github-client).
 
 ## Requirements
